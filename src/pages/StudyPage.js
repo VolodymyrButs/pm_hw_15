@@ -61,7 +61,7 @@ const StudyPage = ({ setFormStep }) => {
 
   return (
     <div>
-      <Title>Form Study</Title>
+      <Title>Education experience</Title>
       <SubTitle>Input your study data</SubTitle>
       <Formik
         initialValues={{ study: formData.study }}
